@@ -1,0 +1,7 @@
+package com.alainmorrondo.helloworld;
+
+import android.app.Service;
+
+public class MyAppService extends Service {
+
+}
